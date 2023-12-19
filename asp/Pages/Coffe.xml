@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<coffee>
+	<type name="Latte">
+		<InStock>5</InStock>
+	</type>
+	<type name="Сappuccino">
+		<InStock>8</InStock>
+	</type>
+	<type name="Espresso">
+		<InStock>3</InStock>
+	</type>
+	<type name="Arabica">
+		<InStock>12</InStock>
+	</type>
+</coffee>
